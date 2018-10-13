@@ -3,6 +3,7 @@
     "ValidityState": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/ValidityState",
+        "spec_url": "https://html.spec.whatwg.org/multipage/forms.html#the-constraint-validation-api",
         "support": {
           "chrome": {
             "version_added": true
@@ -50,6 +51,7 @@
       "badInput": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ValidityState/badInput",
+          "spec_url": "https://html.spec.whatwg.org/multipage/constraints.html#dom-validitystate-badinput",
           "support": {
             "chrome": {
               "version_added": null
@@ -98,6 +100,7 @@
       "tooLong": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ValidityState/tooLong",
+          "spec_url": "https://html.spec.whatwg.org/multipage/constraints.html#dom-validitystate-toolong",
           "support": {
             "chrome": {
               "version_added": null

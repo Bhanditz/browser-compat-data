@@ -3,6 +3,7 @@
     "RTCSctpTransport": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCSctpTransport",
+        "spec_url": "https://w3c.github.io/webrtc-pc/#rtcsctptransport-interface",
         "support": {
           "chrome": {
             "version_added": null

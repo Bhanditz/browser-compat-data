@@ -54,6 +54,11 @@
         "inherit": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/CSS/inherit",
+            "spec_url": [
+              "https://drafts.csswg.org/css-cascade/#inherit",
+              "https://drafts.csswg.org/css-values-3/#common-keywords",
+              "https://www.w3.org/TR/CSS2/cascade.html#value-def-inherit"
+            ],
             "description": "<code>inherit</code>",
             "support": {
               "chrome": {
@@ -106,6 +111,10 @@
         "initial": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/CSS/initial",
+            "spec_url": [
+              "https://drafts.csswg.org/css-cascade/#initial",
+              "https://drafts.csswg.org/css-cascade-3/#initial"
+            ],
             "description": "<code>initial</code>",
             "support": {
               "chrome": {
@@ -172,6 +181,7 @@
         "revert": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/CSS/revert",
+            "spec_url": "https://drafts.csswg.org/css-cascade/#default",
             "description": "<code>revert</code>",
             "support": {
               "chrome": {
@@ -231,6 +241,10 @@
         "unset": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/CSS/unset",
+            "spec_url": [
+              "https://drafts.csswg.org/css-cascade/#inherit-initial",
+              "https://drafts.csswg.org/css-cascade-3/#inherit-initial"
+            ],
             "description": "<code>unset</code>",
             "support": {
               "chrome": {

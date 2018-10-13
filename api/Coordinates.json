@@ -3,6 +3,7 @@
     "Coordinates": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/Coordinates",
+        "spec_url": "https://www.w3.org/TR/geolocation-API/#coordinates",
         "support": {
           "chrome": {
             "version_added": "5"
@@ -110,6 +111,7 @@
       "accuracy": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Coordinates/accuracy",
+          "spec_url": "https://www.w3.org/TR/geolocation-API/#accuracy",
           "support": {
             "chrome": {
               "version_added": "5"
@@ -167,6 +169,7 @@
       "altitude": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Coordinates/altitude",
+          "spec_url": "https://www.w3.org/TR/geolocation-API/#altitude",
           "support": {
             "chrome": {
               "version_added": "5"
@@ -224,6 +227,7 @@
       "altitudeAccuracy": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Coordinates/altitudeAccuracy",
+          "spec_url": "https://www.w3.org/TR/geolocation-API/#altitudeaccuracy",
           "support": {
             "chrome": {
               "version_added": "5"
@@ -281,6 +285,7 @@
       "heading": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Coordinates/heading",
+          "spec_url": "https://www.w3.org/TR/geolocation-API/#heading",
           "support": {
             "chrome": {
               "version_added": "5"
@@ -338,6 +343,7 @@
       "latitude": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Coordinates/latitude",
+          "spec_url": "https://www.w3.org/TR/geolocation-API/#lat",
           "support": {
             "chrome": {
               "version_added": "5"
@@ -395,6 +401,7 @@
       "longitude": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Coordinates/longitude",
+          "spec_url": "https://www.w3.org/TR/geolocation-API/#lon",
           "support": {
             "chrome": {
               "version_added": "5"
@@ -452,6 +459,7 @@
       "speed": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Coordinates/speed",
+          "spec_url": "https://www.w3.org/TR/geolocation-API/#speed",
           "support": {
             "chrome": {
               "version_added": "5"

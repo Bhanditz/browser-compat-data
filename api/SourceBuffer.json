@@ -3,6 +3,7 @@
     "SourceBuffer": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer",
+        "spec_url": "https://w3c.github.io/media-source/#sourcebuffer",
         "support": {
           "chrome": [
             {
@@ -73,6 +74,7 @@
       "mode": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer/mode",
+          "spec_url": "https://w3c.github.io/media-source/#widl-SourceBuffer-mode",
           "support": {
             "chrome": [
               {
@@ -144,6 +146,7 @@
       "updating": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer/updating",
+          "spec_url": "https://w3c.github.io/media-source/#widl-SourceBuffer-updating",
           "support": {
             "chrome": [
               {
@@ -215,6 +218,7 @@
       "buffered": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer/buffered",
+          "spec_url": "https://w3c.github.io/media-source/#widl-SourceBuffer-buffered",
           "support": {
             "chrome": [
               {
@@ -286,6 +290,7 @@
       "changeType": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer/changeType",
+          "spec_url": "https://w3c.github.io/media-source/#dom-sourcebuffer-changetype",
           "support": {
             "chrome": [
               {
@@ -386,6 +391,7 @@
       "timestampOffset": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer/timestampOffset",
+          "spec_url": "https://w3c.github.io/media-source/#widl-SourceBuffer-timestampOffset",
           "support": {
             "chrome": [
               {
@@ -457,6 +463,7 @@
       "audioTracks": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer/audioTracks",
+          "spec_url": "https://w3c.github.io/media-source/#widl-SourceBuffer-audioTracks",
           "support": {
             "chrome": [
               {
@@ -528,6 +535,7 @@
       "videoTracks": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer/videoTracks",
+          "spec_url": "https://w3c.github.io/media-source/#widl-SourceBuffer-videoTracks",
           "support": {
             "chrome": [
               {
@@ -599,6 +607,7 @@
       "textTracks": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer/textTracks",
+          "spec_url": "https://w3c.github.io/media-source/#widl-SourceBuffer-textTracks",
           "support": {
             "chrome": [
               {
@@ -670,6 +679,7 @@
       "appendWindowStart": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer/appendWindowStart",
+          "spec_url": "https://w3c.github.io/media-source/#widl-SourceBuffer-appendWindowStart",
           "support": {
             "chrome": [
               {
@@ -741,6 +751,7 @@
       "appendWindowEnd": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer/appendWindowEnd",
+          "spec_url": "https://w3c.github.io/media-source/#widl-SourceBuffer-appendWindowEnd",
           "support": {
             "chrome": [
               {
@@ -812,6 +823,7 @@
       "trackDefaults": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer/trackDefaults",
+          "spec_url": "https://w3c.github.io/media-source/#widl-SourceBuffer-trackDefaults",
           "support": {
             "firefox": {
               "version_added": false
@@ -1153,6 +1165,7 @@
       "appendBuffer": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer/appendBuffer",
+          "spec_url": "https://w3c.github.io/media-source/#widl-SourceBuffer-appendBuffer-void-ArrayBuffer-data",
           "support": {
             "chrome": [
               {
@@ -1286,6 +1299,7 @@
       "appendStream": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer/appendStream",
+          "spec_url": "https://w3c.github.io/media-source/#widl-SourceBuffer-appendStream-void-ReadableStream-stream-unsigned-long-long-maxSize",
           "support": {
             "chrome": {
               "version_added": false
@@ -1316,6 +1330,7 @@
       "abort": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer/abort",
+          "spec_url": "https://w3c.github.io/media-source/#widl-SourceBuffer-abort-void",
           "support": {
             "chrome": [
               {
@@ -1387,6 +1402,7 @@
       "remove": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SourceBuffer/remove",
+          "spec_url": "https://w3c.github.io/media-source/#widl-SourceBuffer-remove-void-double-start-unrestricted-double-end",
           "support": {
             "chrome": [
               {

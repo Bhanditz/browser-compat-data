@@ -184,6 +184,10 @@
         "base-uri": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/base-uri",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-base-uri",
+              "https://w3c.github.io/webappsec-csp/2/#directive-base-uri"
+            ],
             "support": {
               "chrome": {
                 "version_added": "40"
@@ -235,6 +239,7 @@
         "block-all-mixed-content": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/block-all-mixed-content",
+            "spec_url": "https://w3c.github.io/webappsec-mixed-content/#block-all-mixed-content",
             "support": {
               "chrome": {
                 "version_added": true
@@ -286,6 +291,10 @@
         "child-src": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/child-src",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-child-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-child-srci"
+            ],
             "support": {
               "chrome": {
                 "version_added": "40"
@@ -337,6 +346,10 @@
         "connect-src": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/connect-src",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-connect-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-connect-src"
+            ],
             "support": {
               "chrome": {
                 "version_added": "25"
@@ -389,6 +402,10 @@
         "default-src": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/default-src",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-default-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-default-src"
+            ],
             "support": {
               "chrome": {
                 "version_added": "25"
@@ -490,6 +507,10 @@
         "font-src": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/font-src",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-font-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-font-src"
+            ],
             "support": {
               "chrome": {
                 "version_added": "25"
@@ -541,6 +562,10 @@
         "form-action": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/form-action",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-form-action",
+              "https://w3c.github.io/webappsec-csp/2/#directive-form-action"
+            ],
             "support": {
               "chrome": {
                 "version_added": "40"
@@ -592,6 +617,10 @@
         "frame-ancestors": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/frame-ancestors",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-frame-ancestors",
+              "https://w3c.github.io/webappsec-csp/2/#directive-frame-ancestors"
+            ],
             "support": {
               "chrome": {
                 "version_added": "40"
@@ -645,6 +674,10 @@
         "frame-src": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/frame-src",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-frame-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-frame-src"
+            ],
             "support": {
               "chrome": {
                 "version_added": "25"
@@ -696,6 +729,10 @@
         "img-src": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/img-src",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-img-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-img-src"
+            ],
             "support": {
               "chrome": {
                 "version_added": "25"
@@ -747,6 +784,7 @@
         "manifest-src": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/manifest-src",
+            "spec_url": "https://w3c.github.io/webappsec-csp/#directive-manifest-src",
             "support": {
               "chrome": {
                 "version_added": true
@@ -798,6 +836,10 @@
         "media-src": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/media-src",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-media-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-media-src"
+            ],
             "support": {
               "chrome": {
                 "version_added": "25"
@@ -899,6 +941,10 @@
         "object-src": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/object-src",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-object-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-object-src"
+            ],
             "support": {
               "chrome": {
                 "version_added": "25"
@@ -950,6 +996,10 @@
         "plugin-types": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/plugin-types",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-plugin-types",
+              "https://w3c.github.io/webappsec-csp/2/#directive-plugin-types"
+            ],
             "support": {
               "chrome": {
                 "version_added": "40"
@@ -1160,6 +1210,10 @@
         "report-uri": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/report-uri",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-report-uri",
+              "https://w3c.github.io/webappsec-csp/2/#directive-report-uri"
+            ],
             "support": {
               "chrome": {
                 "version_added": "25"
@@ -1211,6 +1265,7 @@
         "require-sri-for": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/require-sri-for",
+            "spec_url": "https://w3c.github.io/webappsec/specs/subresourceintegrity/#opt-in-require-sri-for",
             "support": {
               "chrome": {
                 "version_added": "54"
@@ -1276,6 +1331,10 @@
         "sandbox": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/sandbox",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-sandbox",
+              "https://w3c.github.io/webappsec-csp/2/#directive-sandbox"
+            ],
             "support": {
               "chrome": {
                 "version_added": "25"
@@ -1327,6 +1386,10 @@
         "script-src": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/script-src",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-script-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-script-src"
+            ],
             "support": {
               "chrome": {
                 "version_added": "25"
@@ -1479,6 +1542,10 @@
         "style-src": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/style-src",
+            "spec_url": [
+              "https://w3c.github.io/webappsec-csp/#directive-style-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-style-src"
+            ],
             "support": {
               "chrome": {
                 "version_added": "25"
@@ -1530,6 +1597,7 @@
         "upgrade-insecure-requests": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/upgrade-insecure-requests",
+            "spec_url": "https://w3c.github.io/webappsec-upgrade-insecure-requests/#delivery",
             "support": {
               "chrome": {
                 "version_added": "43"
@@ -1582,6 +1650,7 @@
         "worker-src": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Headers/Content-Security-Policy/worker-src",
+            "spec_url": "https://w3c.github.io/webappsec-csp/#directive-worker-src",
             "support": {
               "chrome": {
                 "version_added": "59",

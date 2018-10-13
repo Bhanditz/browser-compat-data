@@ -5,6 +5,7 @@
         "__compat": {
           "description": "--*",
           "mdn_url": "https://developer.mozilla.org/docs/Web/CSS/--*",
+          "spec_url": "https://drafts.csswg.org/css-variables/#defining-variables",
           "support": {
             "chrome": {
               "version_added": "49"
@@ -85,6 +86,7 @@
         "var": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/CSS/var",
+            "spec_url": "https://drafts.csswg.org/css-variables/#using-variables",
             "description": "<code>var()</code>",
             "support": {
               "chrome": [
@@ -174,6 +176,7 @@
         "env": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/CSS/env",
+            "spec_url": "https://drafts.csswg.org/css-env-1/#env-function",
             "description": "<code>env()</code>",
             "support": {
               "chrome": {

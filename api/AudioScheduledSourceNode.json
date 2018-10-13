@@ -3,6 +3,7 @@
     "AudioScheduledSourceNode": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/AudioScheduledSourceNode",
+        "spec_url": "https://webaudio.github.io/web-audio-api/#idl-def-AudioScheduledSourceNode",
         "support": {
           "chrome": [
             {
@@ -102,6 +103,7 @@
       "onended": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/AudioScheduledSourceNode/onended",
+          "spec_url": "https://webaudio.github.io/web-audio-api/#dom-audioscheduledsourcenode-onended",
           "support": {
             "chrome": [
               {

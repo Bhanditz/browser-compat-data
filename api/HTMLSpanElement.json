@@ -3,6 +3,7 @@
     "HTMLSpanElement": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLSpanElement",
+        "spec_url": "https://html.spec.whatwg.org/multipage/#htmlspanelement",
         "support": {
           "chrome": {
             "version_added": true

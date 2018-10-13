@@ -3,6 +3,7 @@
     "ScriptProcessorNode": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/ScriptProcessorNode",
+        "spec_url": "https://webaudio.github.io/web-audio-api/#the-scriptprocessornode-interface---deprecated",
         "support": {
           "chrome": {
             "version_added": "14",
@@ -62,6 +63,7 @@
       "bufferSize": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ScriptProcessorNode/bufferSize",
+          "spec_url": "https://webaudio.github.io/web-audio-api/#widl-ScriptProcessorNode-bufferSize",
           "support": {
             "chrome": {
               "version_added": "14",
@@ -122,6 +124,7 @@
       "onaudioprocess": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ScriptProcessorNode/onaudioprocess",
+          "spec_url": "https://webaudio.github.io/web-audio-api/#widl-ScriptProcessorNode-onaudioprocess",
           "support": {
             "chrome": {
               "version_added": "14",

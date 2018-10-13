@@ -51,6 +51,7 @@
       "IntersectionObserver": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/IntersectionObserver/IntersectionObserver",
+          "spec_url": "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-intersectionobserver",
           "description": "<code>IntersectionObserver()</code> constructor",
           "support": {
             "chrome": {
@@ -101,6 +102,7 @@
       "root": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/IntersectionObserver/root",
+          "spec_url": "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-root",
           "support": {
             "chrome": {
               "version_added": "51"
@@ -150,6 +152,7 @@
       "rootMargin": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/IntersectionObserver/rootMargin",
+          "spec_url": "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-rootMargin",
           "support": {
             "chrome": {
               "version_added": "51"
@@ -199,6 +202,7 @@
       "thresholds": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/IntersectionObserver/thresholds",
+          "spec_url": "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-thresholds",
           "support": {
             "chrome": {
               "version_added": "51"
@@ -248,6 +252,7 @@
       "disconnect": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/IntersectionObserver/disconnect",
+          "spec_url": "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-disconnect",
           "support": {
             "chrome": {
               "version_added": "51"
@@ -298,6 +303,7 @@
       "observe": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/IntersectionObserver/observe",
+          "spec_url": "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-observe",
           "support": {
             "chrome": {
               "version_added": "51"
@@ -347,6 +353,7 @@
       "takeRecords": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/IntersectionObserver/takeRecords",
+          "spec_url": "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-takeRecords",
           "support": {
             "chrome": {
               "version_added": "51"
@@ -397,6 +404,7 @@
       "unobserve": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/IntersectionObserver/unobserve",
+          "spec_url": "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-unobserve",
           "support": {
             "chrome": {
               "version_added": "51"

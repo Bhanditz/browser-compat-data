@@ -3,6 +3,10 @@
     "SVGImageElement": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/SVGImageElement",
+        "spec_url": [
+          "https://svgwg.org/svg2-draft/embedded.html#InterfaceSVGImageElement",
+          "https://www.w3.org/TR/SVG11/struct.html#InterfaceSVGImageElement"
+        ],
         "support": {
           "chrome": {
             "version_added": true

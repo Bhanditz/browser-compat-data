@@ -3,6 +3,7 @@
     "MediaStream": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStream",
+        "spec_url": "https://w3c.github.io/mediacapture-main/#dom-mediastream",
         "support": {
           "chrome": {
             "version_added": true
@@ -56,6 +57,7 @@
       "MediaStream": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStream/MediaStream",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#mediastream",
           "support": {
             "chrome": {
               "version_added": "55"
@@ -107,6 +109,7 @@
       "active": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStream/active",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStream-active",
           "support": {
             "chrome": {
               "version_added": true
@@ -223,6 +226,7 @@
       "id": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStream/id",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStream-id",
           "support": {
             "chrome": {
               "version_added": true,
@@ -282,6 +286,7 @@
       "onaddtrack": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStream/onaddtrack",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#event-mediastream-addtrack",
           "support": {
             "chrome": {
               "version_added": true
@@ -336,6 +341,7 @@
       "onremovetrack": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStream/onremovetrack",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStream-onremovetrack",
           "support": {
             "chrome": {
               "version_added": true
@@ -390,6 +396,7 @@
       "addTrack": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStream/addTrack",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStream-addTrack-void-MediaStreamTrack-track",
           "support": {
             "chrome": {
               "version_added": true
@@ -444,6 +451,7 @@
       "clone": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStream/clone",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStream-clone-MediaStream",
           "support": {
             "chrome": {
               "version_added": true
@@ -498,6 +506,7 @@
       "getAudioTracks": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStream/getAudioTracks",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#dom-mediastream-getaudiotracks",
           "support": {
             "chrome": {
               "version_added": true
@@ -554,6 +563,7 @@
       "getTrackById": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStream/getTrackById",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStream-getTrackById-MediaStreamTrack-DOMString-trackId",
           "support": {
             "chrome": {
               "version_added": true
@@ -608,6 +618,7 @@
       "getTracks": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStream/getTracks",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#dom-mediastream-gettracks",
           "support": {
             "chrome": {
               "version_added": true
@@ -662,6 +673,7 @@
       "getVideoTracks": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStream/getVideoTracks",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#dom-mediastream-getvideotracks",
           "support": {
             "chrome": {
               "version_added": true

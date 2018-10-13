@@ -3,6 +3,7 @@
     "SpeechSynthesisUtterance": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/SpeechSynthesisUtterance",
+        "spec_url": "https://w3c.github.io/speech-api/#utterance-attributes",
         "support": {
           "chrome": {
             "version_added": "33"
@@ -63,6 +64,7 @@
       "SpeechSynthesisUtterance": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SpeechSynthesisUtterance/SpeechSynthesisUtterance",
+          "spec_url": "https://w3c.github.io/speech-api/#tts-section",
           "description": "<code>SpeechSynthesisUtterance()</code> constructor",
           "support": {
             "chrome": {
@@ -125,6 +127,7 @@
       "lang": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SpeechSynthesisUtterance/lang",
+          "spec_url": "https://w3c.github.io/speech-api/#dfn-utterancelang",
           "support": {
             "chrome": {
               "version_added": "33"
@@ -186,6 +189,7 @@
       "onboundary": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SpeechSynthesisUtterance/onboundary",
+          "spec_url": "https://w3c.github.io/speech-api/#dfn-utteranceonboundary",
           "support": {
             "chrome": {
               "version_added": "33"
@@ -247,6 +251,7 @@
       "onend": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SpeechSynthesisUtterance/onend",
+          "spec_url": "https://w3c.github.io/speech-api/#dfn-utteranceonend",
           "support": {
             "chrome": {
               "version_added": "33"
@@ -308,6 +313,7 @@
       "onerror": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SpeechSynthesisUtterance/onerror",
+          "spec_url": "https://w3c.github.io/speech-api/#dfn-utteranceonerror",
           "support": {
             "chrome": {
               "version_added": "33"
@@ -369,6 +375,7 @@
       "onmark": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SpeechSynthesisUtterance/onmark",
+          "spec_url": "https://w3c.github.io/speech-api/#dfn-utteranceonmark",
           "support": {
             "chrome": {
               "version_added": "33"
@@ -430,6 +437,7 @@
       "onpause": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SpeechSynthesisUtterance/onpause",
+          "spec_url": "https://w3c.github.io/speech-api/#dfn-utteranceonpause",
           "support": {
             "chrome": {
               "version_added": "33"
@@ -491,6 +499,7 @@
       "onresume": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SpeechSynthesisUtterance/onresume",
+          "spec_url": "https://w3c.github.io/speech-api/#dfn-utteranceonresume",
           "support": {
             "chrome": {
               "version_added": "33"
@@ -552,6 +561,7 @@
       "onstart": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SpeechSynthesisUtterance/onstart",
+          "spec_url": "https://w3c.github.io/speech-api/#dfn-utteranceonstart",
           "support": {
             "chrome": {
               "version_added": "33"
@@ -613,6 +623,7 @@
       "pitch": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SpeechSynthesisUtterance/pitch",
+          "spec_url": "https://w3c.github.io/speech-api/#dfn-utterancepitch",
           "support": {
             "chrome": {
               "version_added": "33"
@@ -674,6 +685,7 @@
       "rate": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SpeechSynthesisUtterance/rate",
+          "spec_url": "https://w3c.github.io/speech-api/#dfn-utterancerate",
           "support": {
             "chrome": {
               "version_added": "33"
@@ -735,6 +747,7 @@
       "text": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SpeechSynthesisUtterance/text",
+          "spec_url": "https://w3c.github.io/speech-api/#dfn-utterancetext",
           "support": {
             "chrome": {
               "version_added": "33"
@@ -796,6 +809,7 @@
       "voice": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SpeechSynthesisUtterance/voice",
+          "spec_url": "https://w3c.github.io/speech-api/#dfn-utterancevoice",
           "support": {
             "chrome": {
               "version_added": "33"
@@ -857,6 +871,7 @@
       "volume": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SpeechSynthesisUtterance/volume",
+          "spec_url": "https://w3c.github.io/speech-api/#dfn-utterancevolume",
           "support": {
             "chrome": {
               "version_added": "33"

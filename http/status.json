@@ -4,6 +4,7 @@
       "100": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/100",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.2.1",
           "support": {
             "chrome": {
               "version_added": true
@@ -55,6 +56,7 @@
       "200": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/200",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.3.1",
           "support": {
             "chrome": {
               "version_added": true
@@ -106,6 +108,7 @@
       "201": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/201",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.3.2",
           "support": {
             "chrome": {
               "version_added": true
@@ -157,6 +160,7 @@
       "204": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/204",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.3.5",
           "support": {
             "chrome": {
               "version_added": true
@@ -208,6 +212,7 @@
       "206": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/206",
+          "spec_url": "https://tools.ietf.org/html/rfc7233#section-4.1",
           "support": {
             "chrome": {
               "version_added": true
@@ -259,6 +264,7 @@
       "301": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/301",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.4.2",
           "support": {
             "chrome": {
               "version_added": true
@@ -310,6 +316,7 @@
       "302": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/302",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.4.3",
           "support": {
             "chrome": {
               "version_added": true
@@ -361,6 +368,7 @@
       "303": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/303",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.4.4",
           "support": {
             "chrome": {
               "version_added": true
@@ -412,6 +420,7 @@
       "304": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/304",
+          "spec_url": "https://tools.ietf.org/html/rfc7232#section-4.1",
           "support": {
             "chrome": {
               "version_added": true
@@ -463,6 +472,7 @@
       "307": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/307",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.4.7",
           "support": {
             "chrome": {
               "version_added": true
@@ -514,6 +524,7 @@
       "308": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/308",
+          "spec_url": "https://tools.ietf.org/html/rfc7538#section-3",
           "support": {
             "chrome": {
               "version_added": true
@@ -566,6 +577,7 @@
       "401": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/401",
+          "spec_url": "https://tools.ietf.org/html/rfc7235#section-3.1",
           "support": {
             "chrome": {
               "version_added": true
@@ -617,6 +629,7 @@
       "403": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/403",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.5.3",
           "support": {
             "chrome": {
               "version_added": true
@@ -668,6 +681,7 @@
       "404": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/404",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.5.4",
           "support": {
             "chrome": {
               "version_added": true
@@ -719,6 +733,7 @@
       "406": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/406",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.5.6",
           "support": {
             "chrome": {
               "version_added": true
@@ -770,6 +785,7 @@
       "407": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/407",
+          "spec_url": "https://tools.ietf.org/html/rfc7235#section-3.2",
           "support": {
             "chrome": {
               "version_added": true
@@ -821,6 +837,7 @@
       "410": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/410",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.5.9",
           "support": {
             "chrome": {
               "version_added": true
@@ -872,6 +889,7 @@
       "412": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/412",
+          "spec_url": "https://tools.ietf.org/html/rfc7232#section-4.2",
           "support": {
             "chrome": {
               "version_added": true
@@ -923,6 +941,7 @@
       "416": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/416",
+          "spec_url": "https://tools.ietf.org/html/rfc7233#section-4.4",
           "support": {
             "chrome": {
               "version_added": true
@@ -974,6 +993,7 @@
       "425": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/425",
+          "spec_url": "https://tools.ietf.org/html/rfc8470#section-5.2",
           "support": {
             "chrome": {
               "version_added": null
@@ -1076,6 +1096,7 @@
       "500": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/500",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.6.1",
           "support": {
             "chrome": {
               "version_added": true
@@ -1127,6 +1148,7 @@
       "501": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/501",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.6.2",
           "support": {
             "chrome": {
               "version_added": true
@@ -1178,6 +1200,7 @@
       "502": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/502",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.6.3",
           "support": {
             "chrome": {
               "version_added": true
@@ -1229,6 +1252,7 @@
       "503": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/503",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.6.4",
           "support": {
             "chrome": {
               "version_added": true
@@ -1280,6 +1304,7 @@
       "504": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/HTTP/Status/504",
+          "spec_url": "https://tools.ietf.org/html/rfc7231#section-6.6.4",
           "support": {
             "chrome": {
               "version_added": true

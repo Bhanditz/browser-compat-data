@@ -3,6 +3,7 @@
     "RTCIceCandidateStats": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidateStats",
+        "spec_url": "https://w3c.github.io/webrtc-stats/#dom-rtcicecandidatestats",
         "support": {
           "chrome": {
             "version_added": false
@@ -322,6 +323,7 @@
       "port": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidate/port",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-port",
           "support": {
             "chrome": {
               "version_added": false
@@ -375,6 +377,7 @@
       "priority": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidate/priority",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-priority",
           "support": {
             "chrome": {
               "version_added": false
@@ -426,6 +429,7 @@
       "protocol": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/RTCIceCandidate/protocol",
+          "spec_url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-protocol",
           "support": {
             "chrome": {
               "version_added": false

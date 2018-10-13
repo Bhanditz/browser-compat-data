@@ -3,6 +3,10 @@
     "SVGElement": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/SVGElement",
+        "spec_url": [
+          "https://svgwg.org/svg2-draft/types.html#InterfaceSVGElement",
+          "https://www.w3.org/TR/SVG11/types.html#InterfaceSVGElement"
+        ],
         "support": {
           "chrome": {
             "version_added": true
@@ -50,6 +54,7 @@
       "dataset": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/SVGElement/dataset",
+          "spec_url": "https://svgwg.org/svg2-draft/types.html#__svg__SVGElement__dataset",
           "support": {
             "chrome": {
               "version_added": "55"

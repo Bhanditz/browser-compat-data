@@ -102,6 +102,7 @@
       "assert": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/assert",
+          "spec_url": "https://console.spec.whatwg.org/#assert",
           "support": {
             "chrome": {
               "version_added": true
@@ -147,6 +148,7 @@
       "clear": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/clear",
+          "spec_url": "https://console.spec.whatwg.org/#clear",
           "support": {
             "chrome": {
               "version_added": true
@@ -195,6 +197,7 @@
       "count": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/count",
+          "spec_url": "https://console.spec.whatwg.org/#count",
           "support": {
             "chrome": {
               "version_added": true
@@ -243,6 +246,7 @@
       "countReset": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/countReset",
+          "spec_url": "https://console.spec.whatwg.org/#count",
           "support": {
             "chrome": {
               "version_added": true
@@ -294,6 +298,7 @@
       "dir": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/dir",
+          "spec_url": "https://console.spec.whatwg.org/#dir",
           "support": {
             "chrome": {
               "version_added": true
@@ -342,6 +347,7 @@
       "dirxml": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/dirxml",
+          "spec_url": "https://console.spec.whatwg.org/#dirxml",
           "support": {
             "chrome": {
               "version_added": true
@@ -390,6 +396,7 @@
       "error": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/error",
+          "spec_url": "https://console.spec.whatwg.org/#error",
           "support": {
             "chrome": {
               "version_added": true
@@ -586,6 +593,7 @@
       "group": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/group",
+          "spec_url": "https://console.spec.whatwg.org/#group",
           "support": {
             "chrome": {
               "version_added": "2"
@@ -634,6 +642,7 @@
       "groupCollapsed": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/groupCollapsed",
+          "spec_url": "https://console.spec.whatwg.org/#groupcollapsed",
           "support": {
             "chrome": {
               "version_added": "6"
@@ -682,6 +691,7 @@
       "groupEnd": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/groupEnd",
+          "spec_url": "https://console.spec.whatwg.org/#groupend",
           "support": {
             "chrome": {
               "version_added": "2"
@@ -730,6 +740,7 @@
       "info": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/info",
+          "spec_url": "https://console.spec.whatwg.org/#info",
           "support": {
             "chrome": {
               "version_added": true
@@ -832,6 +843,7 @@
       "log": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/log",
+          "spec_url": "https://console.spec.whatwg.org/#log",
           "support": {
             "chrome": {
               "version_added": true
@@ -1030,6 +1042,7 @@
       "table": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/table",
+          "spec_url": "https://console.spec.whatwg.org/#table",
           "support": {
             "chrome": {
               "version_added": true
@@ -1078,6 +1091,7 @@
       "time": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/time",
+          "spec_url": "https://console.spec.whatwg.org/#time",
           "support": {
             "chrome": {
               "version_added": "2"
@@ -1126,6 +1140,7 @@
       "timeEnd": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/timeEnd",
+          "spec_url": "https://console.spec.whatwg.org/#timeend",
           "support": {
             "chrome": {
               "version_added": "2"
@@ -1174,6 +1189,7 @@
       "timeLog": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/timeLog",
+          "spec_url": "https://console.spec.whatwg.org/#timelog",
           "support": {
             "chrome": {
               "version_added": false,
@@ -1272,6 +1288,7 @@
       "trace": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/trace",
+          "spec_url": "https://console.spec.whatwg.org/#trace",
           "support": {
             "chrome": {
               "version_added": true
@@ -1320,6 +1337,7 @@
       "warn": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Console/warn",
+          "spec_url": "https://console.spec.whatwg.org/#warn",
           "support": {
             "chrome": {
               "version_added": true

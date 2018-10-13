@@ -3,6 +3,7 @@
     "FontFace": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/FontFace",
+        "spec_url": "https://drafts.csswg.org/css-font-loading/#FontFace-interface",
         "support": {
           "chrome": {
             "version_added": "35"
@@ -50,6 +51,7 @@
       "FontFace": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/FontFace/FontFace",
+          "spec_url": "https://drafts.csswg.org/css-font-loading/#font-face-constructor",
           "description": "<code>FontFace()</code> constructor",
           "support": {
             "chrome": {
@@ -99,6 +101,10 @@
       "display": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/FontFace/display",
+          "spec_url": [
+            "https://drafts.csswg.org/css-font-loading/#dom-fontface-family",
+            "https://drafts.csswg.org/css-fonts-4/#descdef-font-face-font-display"
+          ],
           "support": {
             "chrome": {
               "version_added": "60"
@@ -147,6 +153,7 @@
       "family": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/FontFace/family",
+          "spec_url": "https://drafts.csswg.org/css-font-loading/#dom-fontface-family",
           "support": {
             "chrome": {
               "version_added": true

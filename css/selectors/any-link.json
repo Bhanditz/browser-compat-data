@@ -4,6 +4,7 @@
       "any-link": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/CSS/:any-link",
+          "spec_url": "https://drafts.csswg.org/selectors-4/#the-any-link-pseudo",
           "support": {
             "chrome": {
               "prefix": "-webkit-",

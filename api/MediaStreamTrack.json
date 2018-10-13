@@ -3,6 +3,10 @@
     "MediaStreamTrack": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack",
+        "spec_url": [
+          "https://w3c.github.io/mediacapture-main/#mediastreamtrack",
+          "https://w3c.github.io/webrtc-pc/#isolated-track"
+        ],
         "support": {
           "chrome": {
             "version_added": true
@@ -56,6 +60,10 @@
       "applyConstraints": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/applyConstraints",
+          "spec_url": [
+            "https://w3c.github.io/mediacapture-main/#dom-mediatrackconstraints",
+            "https://w3c.github.io/mediacapture-image/#mediatrackconstraintset-section"
+          ],
           "support": {
             "chrome": {
               "version_added": "63"
@@ -110,6 +118,7 @@
       "clone": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/clone",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#dom-mediastreamtrack-clone",
           "support": {
             "chrome": {
               "version_added": "45"
@@ -218,6 +227,7 @@
       "enabled": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/enabled",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#dom-mediastreamtrack-enabled",
           "support": {
             "chrome": {
               "version_added": true
@@ -272,6 +282,7 @@
       "getCapabilities": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/getCapabilities",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#dom-mediastreamtrack-getcapabilities",
           "support": {
             "chrome": {
               "version_added": "66"
@@ -326,6 +337,7 @@
       "getConstraints": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/getConstraints",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#dom-mediastreamtrack-getconstraints",
           "support": {
             "chrome": {
               "version_added": "53"
@@ -380,6 +392,7 @@
       "getSettings": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/getSettings",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#dom-mediastreamtrack-getsettings",
           "support": {
             "chrome": {
               "version_added": "61"
@@ -491,6 +504,7 @@
       "id": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/id",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStreamTrack-id",
           "support": {
             "chrome": {
               "version_added": true
@@ -599,6 +613,7 @@
       "kind": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/kind",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStreamTrack-kind",
           "support": {
             "chrome": {
               "version_added": true
@@ -653,6 +668,7 @@
       "label": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/label",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStreamTrack-label",
           "support": {
             "chrome": {
               "version_added": true
@@ -707,6 +723,7 @@
       "muted": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/muted",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#dom-mediastreamtrack-muted",
           "support": {
             "chrome": {
               "version_added": true
@@ -761,6 +778,7 @@
       "onended": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/onended",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStreamTrack-onended",
           "support": {
             "chrome": {
               "version_added": true
@@ -869,6 +887,7 @@
       "onmute": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/onmute",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStreamTrack-onmute",
           "support": {
             "chrome": {
               "version_added": true
@@ -923,6 +942,7 @@
       "onoverconstrained": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/onoverconstrained",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStreamTrack-onoverconstrained",
           "support": {
             "chrome": {
               "version_added": true
@@ -977,6 +997,7 @@
       "onunmute": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/onunmute",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStreamTrack-onunmute",
           "support": {
             "chrome": {
               "version_added": true
@@ -1085,6 +1106,7 @@
       "readyState": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/readyState",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStreamTrack-readystate",
           "support": {
             "chrome": {
               "version_added": true
@@ -1139,6 +1161,7 @@
       "remote": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/remote",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStreamTrack-remote",
           "support": {
             "chrome": {
               "version_added": "48",
@@ -1198,6 +1221,7 @@
       "stop": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaStreamTrack/stop",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#widl-MediaStreamTrack-stop",
           "support": {
             "chrome": {
               "version_added": "61"

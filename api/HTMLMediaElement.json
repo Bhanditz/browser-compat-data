@@ -3,6 +3,11 @@
     "HTMLMediaElement": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement",
+        "spec_url": [
+          "https://html.spec.whatwg.org/multipage/the-video-element.html#htmlmediaelement",
+          "https://w3c.github.io/encrypted-media/#introduction",
+          "https://w3c.github.io/mediacapture-main/#htmlmediaelement-extensions"
+        ],
         "support": {
           "chrome": {
             "version_added": true
@@ -61,6 +66,7 @@
       "audioTracks": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/audioTracks",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-audiotracks",
           "support": {
             "edge": {
               "version_added": true
@@ -99,6 +105,7 @@
       "autoplay": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/autoplay",
+          "spec_url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-autoplay",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -147,6 +154,7 @@
       "buffered": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/buffered",
+          "spec_url": "https://html.spec.whatwg.org/multipage/embedded-content.html#media-elements",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -195,6 +203,7 @@
       "canPlayType": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/canPlayType",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-navigator-canplaytype",
           "support": {
             "chrome": {
               "version_added": true
@@ -243,6 +252,7 @@
       "captureStream": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/captureStream",
+          "spec_url": "https://w3c.github.io/mediacapture-fromelement/#widl-HTMLMediaElement-captureStream-MediaStream",
           "support": {
             "chrome": {
               "version_added": "62"
@@ -317,6 +327,7 @@
       "controls": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/controls",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-controls",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -392,6 +403,7 @@
       "crossOrigin": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/crossOrigin",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#attr-media-crossorigin",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -447,6 +459,7 @@
       "currentSrc": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/currentSrc",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-currentsrc",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -495,6 +508,7 @@
       "currentTime": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/currentTime",
+          "spec_url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-currenttime",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -543,6 +557,7 @@
       "defaultMuted": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/defaultMuted",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-defaultmuted",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -588,6 +603,7 @@
       "defaultPlaybackRate": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/defaultPlaybackRate",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-defaultplaybackrate",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -672,6 +688,7 @@
       "duration": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/duration",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-duration",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -720,6 +737,7 @@
       "ended": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/ended",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-ended",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -768,6 +786,7 @@
       "error": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/error",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-error",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -816,6 +835,7 @@
       "fastSeek": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/fastSeek",
+          "spec_url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-fastseek",
           "support": {
             "edge": {
               "version_added": false
@@ -866,6 +886,7 @@
       "load": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/load",
+          "spec_url": "https://html.spec.whatwg.org/multipage/media.html#dom-media-load",
           "support": {
             "chrome": {
               "version_added": "1"
@@ -914,6 +935,7 @@
       "loop": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/loop",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-loop",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -1266,6 +1288,7 @@
       "muted": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/muted",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-muted",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -1314,6 +1337,7 @@
       "networkState": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/networkState",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-networkstate",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -1365,6 +1389,7 @@
       "onerror": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/onerror",
+          "spec_url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onerror",
           "support": {
             "chrome": {
               "version_added": true
@@ -1497,6 +1522,7 @@
       "pause": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/pause",
+          "spec_url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-pause",
           "support": {
             "chrome": {
               "version_added": true
@@ -1545,6 +1571,7 @@
       "paused": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/paused",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-paused",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -1593,6 +1620,7 @@
       "play": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/play",
+          "spec_url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-play",
           "support": {
             "chrome": {
               "version_added": true
@@ -1641,6 +1669,7 @@
       "playbackRate": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/playbackRate",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-playbackrate",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -1799,6 +1828,7 @@
       "readyState": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/readyState",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-readystate",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -1885,6 +1915,10 @@
       "seekable": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/seekable",
+          "spec_url": [
+            "https://html.spec.whatwg.org/multipage/the-video-element.html#dom-media-seekable",
+            "https://w3c.github.io/media-source/#htmlmediaelement-extensions"
+          ],
           "support": {
             "chrome": {
               "version_added": "43"
@@ -1969,6 +2003,7 @@
       "setMediaKeys": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/setMediaKeys",
+          "spec_url": "https://w3c.github.io/encrypted-media/#dom-htmlmediaelement-setmediakeys",
           "support": {},
           "status": {
             "experimental": false,
@@ -1980,6 +2015,7 @@
       "setSinkId": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/setSinkId",
+          "spec_url": "https://w3c.github.io/mediacapture-output/#dom-htmlmediaelement-setsinkid",
           "support": {
             "chrome": {
               "version_added": "49"
@@ -2042,6 +2078,7 @@
       "sinkId": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/sinkId",
+          "spec_url": "https://w3c.github.io/mediacapture-output/#dom-htmlmediaelement-sinkid",
           "support": {
             "chrome": {
               "version_added": "49"
@@ -2069,6 +2106,7 @@
       "src": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/src",
+          "spec_url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-src",
           "support": {
             "chrome": {
               "version_added": "43"
@@ -2117,6 +2155,7 @@
       "srcObject": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/srcObject",
+          "spec_url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-srcobject",
           "support": {
             "chrome": {
               "version_added": "52",
@@ -2206,6 +2245,7 @@
       "videoTracks": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/videoTracks",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-videotracks",
           "support": {
             "edge": {
               "version_added": true
@@ -2244,6 +2284,7 @@
       "volume": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLMediaElement/volume",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-media-volume",
           "support": {
             "chrome": {
               "version_added": "43"

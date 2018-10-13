@@ -3,6 +3,10 @@
     "HTMLVideoElement": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLVideoElement",
+        "spec_url": [
+          "https://w3c.github.io/media-source/#idl-def-HTMLVideoElement",
+          "https://html.spec.whatwg.org/multipage/#htmlvideoelement"
+        ],
         "support": {
           "chrome": {
             "version_added": true

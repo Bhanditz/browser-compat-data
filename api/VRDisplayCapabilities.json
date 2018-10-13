@@ -3,6 +3,7 @@
     "VRDisplayCapabilities": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplayCapabilities",
+        "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#interface-vrdisplaycapabilities",
         "support": {
           "chrome": {
             "version_added": false
@@ -59,6 +60,7 @@
       "canPresent": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplayCapabilities/canPresent",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplaycapabilities-canpresent",
           "support": {
             "chrome": {
               "version_added": false
@@ -116,6 +118,7 @@
       "hasExternalDisplay": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplayCapabilities/hasExternalDisplay",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplaycapabilities-hasexternaldisplay",
           "support": {
             "chrome": {
               "version_added": false
@@ -173,6 +176,7 @@
       "hasPosition": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplayCapabilities/hasPosition",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplaycapabilities-hasposition",
           "support": {
             "chrome": {
               "version_added": false
@@ -230,6 +234,7 @@
       "hasOrientation": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplayCapabilities/hasOrientation",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplaycapabilities-hasorientation",
           "support": {
             "chrome": {
               "version_added": false
@@ -287,6 +292,7 @@
       "maxLayers": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplayCapabilities/maxLayers",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplaycapabilities-maxlayers",
           "support": {
             "chrome": {
               "version_added": false

@@ -3,6 +3,7 @@
     "FileReader": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/FileReader",
+        "spec_url": "https://w3c.github.io/FileAPI/#dfn-filereader",
         "support": {
           "chrome": {
             "version_added": "7"
@@ -99,6 +100,7 @@
       "abort": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/FileReader/abort",
+          "spec_url": "https://w3c.github.io/FileAPI/#FileReader-interface",
           "support": {
             "chrome": {
               "version_added": "7"
@@ -147,6 +149,7 @@
       "error": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/FileReader/error",
+          "spec_url": "https://w3c.github.io/FileAPI/#FileReader-interface",
           "support": {
             "chrome": {
               "version_added": "7"
@@ -447,6 +450,7 @@
       "readyState": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/FileReader/readyState",
+          "spec_url": "https://w3c.github.io/FileAPI/#FileReader-interface",
           "support": {
             "chrome": {
               "version_added": "7"
@@ -495,6 +499,7 @@
       "readAsArrayBuffer": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/FileReader/readAsArrayBuffer",
+          "spec_url": "https://w3c.github.io/FileAPI/#readAsArrayBuffer",
           "support": {
             "chrome": {
               "version_added": "7"
@@ -543,6 +548,7 @@
       "readAsBinaryString": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/FileReader/readAsBinaryString",
+          "spec_url": "https://w3c.github.io/FileAPI/#readAsBinaryString",
           "support": {
             "chrome": {
               "version_added": "7"
@@ -591,6 +597,7 @@
       "readAsDataURL": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/FileReader/readAsDataURL",
+          "spec_url": "https://w3c.github.io/FileAPI/#FileReader-interface",
           "support": {
             "chrome": {
               "version_added": "7"
@@ -639,6 +646,7 @@
       "readAsText": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/FileReader/readAsText",
+          "spec_url": "https://w3c.github.io/FileAPI/#FileReader-interface",
           "support": {
             "chrome": {
               "version_added": "7"
@@ -687,6 +695,7 @@
       "result": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/FileReader/result",
+          "spec_url": "https://w3c.github.io/FileAPI/#FileReader-interface",
           "support": {
             "chrome": {
               "version_added": "7"

@@ -3,6 +3,7 @@
     "VideoTrackList": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/VideoTrackList",
+        "spec_url": "https://html.spec.whatwg.org/multipage/#videotracklist",
         "support": {
           "chrome": {
             "version_added": "45",
@@ -95,6 +96,7 @@
       "getTrackById": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VideoTrackList/getTrackById",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-videotracklist-gettrackbyid",
           "support": {
             "chrome": {
               "version_added": "45",
@@ -188,6 +190,7 @@
       "length": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VideoTrackList/length",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-videotracklist-length",
           "support": {
             "chrome": {
               "version_added": "45",
@@ -281,6 +284,7 @@
       "onaddtrack": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VideoTrackList/onaddtrack",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#handler-tracklist-onaddtrack",
           "support": {
             "chrome": {
               "version_added": "45",
@@ -374,6 +378,7 @@
       "onchange": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VideoTrackList/onchange",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#handler-tracklist-onchange",
           "support": {
             "chrome": {
               "version_added": "45",
@@ -467,6 +472,7 @@
       "onremovetrack": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VideoTrackList/onremovetrack",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#handler-tracklist-onremovetrack",
           "support": {
             "chrome": {
               "version_added": "45",
@@ -560,6 +566,7 @@
       "selectedIndex": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VideoTrackList/selectedIndex",
+          "spec_url": "https://html.spec.whatwg.org/multipage/#dom-videotracklist-selectedindex",
           "support": {
             "chrome": {
               "version_added": "45",

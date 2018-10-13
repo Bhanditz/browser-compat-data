@@ -3,6 +3,7 @@
     "HTMLObjectElement": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLObjectElement",
+        "spec_url": "https://html.spec.whatwg.org/multipage/#htmlobjectelement",
         "support": {
           "chrome": {
             "version_added": true
@@ -818,6 +819,7 @@
       "typeMustMatch": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLObjectElement/typeMustMatch",
+          "spec_url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-object-typemustmatch",
           "support": {
             "chrome": {
               "version_added": false

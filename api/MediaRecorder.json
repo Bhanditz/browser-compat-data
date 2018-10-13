@@ -3,6 +3,7 @@
     "MediaRecorder": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder",
+        "spec_url": "https://w3c.github.io/mediacapture-record/#MediaRecorderAPI",
         "support": {
           "chrome": {
             "version_added": "47"
@@ -158,6 +159,7 @@
       "mimeType": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/mimeType",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-mimeType",
           "support": {
             "chrome": {
               "version_added": "47",
@@ -210,6 +212,7 @@
       "state": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/state",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-state",
           "support": {
             "chrome": {
               "version_added": "47",
@@ -262,6 +265,7 @@
       "stream": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/stream",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-stream",
           "support": {
             "chrome": {
               "version_added": "47",
@@ -314,6 +318,7 @@
       "ignoreMutedMedia": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/ignoreMutedMedia",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#dom-mediarecorder-ignoremutedmedia",
           "support": {
             "chrome": {
               "version_added": "49"
@@ -365,6 +370,7 @@
       "videoBitsPerSecond": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/videoBitsPerSecond",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#dom-mediarecorder-videobitspersecond",
           "support": {
             "chrome": {
               "version_added": "49"
@@ -416,6 +422,7 @@
       "audioBitsPerSecond": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/audioBitsPerSecond",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#dom-mediarecorder-audiobitspersecond",
           "support": {
             "chrome": {
               "version_added": "49"
@@ -467,6 +474,7 @@
       "isTypeSupported": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/isTypeSupported",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#dom-mediarecorder-istypesupported",
           "support": {
             "chrome": {
               "version_added": "47"
@@ -518,6 +526,7 @@
       "pause": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/pause",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-pause-void",
           "support": {
             "chrome": {
               "version_added": "47",
@@ -577,6 +586,7 @@
       "requestData": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/requestData",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-requestData-void",
           "support": {
             "chrome": {
               "version_added": "47",
@@ -636,6 +646,7 @@
       "resume": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/resume",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-resume-void",
           "support": {
             "chrome": {
               "version_added": "47",
@@ -695,6 +706,7 @@
       "start": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/start",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-start-void-long-timeslice",
           "support": {
             "chrome": {
               "version_added": "47"
@@ -746,6 +758,7 @@
       "stop": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/stop",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-stop-void",
           "support": {
             "chrome": {
               "version_added": "47",
@@ -805,6 +818,7 @@
       "ondataavailable": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/ondataavailable",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-ondataavailable",
           "support": {
             "chrome": {
               "version_added": "47",
@@ -864,6 +878,7 @@
       "onerror": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/onerror",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-onerror",
           "support": {
             "chrome": {
               "version_added": "47",
@@ -923,6 +938,7 @@
       "onpause": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/onpause",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-onpause",
           "support": {
             "chrome": {
               "version_added": "47",
@@ -982,6 +998,7 @@
       "onresume": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/onresume",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-onresume",
           "support": {
             "chrome": {
               "version_added": "47",
@@ -1041,6 +1058,7 @@
       "onstart": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/onstart",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-onstart",
           "support": {
             "chrome": {
               "version_added": "47",
@@ -1100,6 +1118,7 @@
       "onstop": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/MediaRecorder/onstop",
+          "spec_url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-onstop",
           "support": {
             "chrome": {
               "version_added": "47",

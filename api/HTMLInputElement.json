@@ -3,6 +3,7 @@
     "HTMLInputElement": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLInputElement",
+        "spec_url": "https://html.spec.whatwg.org/multipage/#htmlinputelement",
         "support": {
           "chrome": {
             "version_added": true
@@ -1099,6 +1100,7 @@
       "setSelectionRange": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLInputElement/setSelectionRange",
+          "spec_url": "https://html.spec.whatwg.org/multipage/forms.html#dom-textarea/input-setselectionrange",
           "support": {
             "chrome": {
               "version_added": "1"

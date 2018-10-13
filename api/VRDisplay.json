@@ -3,6 +3,7 @@
     "VRDisplay": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay",
+        "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#interface-vrdisplay",
         "support": {
           "chrome": {
             "version_added": false
@@ -59,6 +60,7 @@
       "cancelAnimationFrame": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/cancelAnimationFrame",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-cancelanimationframe",
           "support": {
             "chrome": {
               "version_added": false
@@ -116,6 +118,7 @@
       "capabilities": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/capabilities",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-capabilities",
           "support": {
             "chrome": {
               "version_added": false
@@ -173,6 +176,7 @@
       "depthFar": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/depthFar",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-depthfar",
           "support": {
             "chrome": {
               "version_added": false
@@ -230,6 +234,7 @@
       "depthNear": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/depthNear",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-depthnear",
           "support": {
             "chrome": {
               "version_added": false
@@ -287,6 +292,7 @@
       "displayId": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/displayId",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-displayid",
           "support": {
             "chrome": {
               "version_added": false
@@ -344,6 +350,7 @@
       "displayName": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/displayName",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-displayname",
           "support": {
             "chrome": {
               "version_added": false
@@ -401,6 +408,7 @@
       "exitPresent": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/exitPresent",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-exitpresent",
           "support": {
             "chrome": {
               "version_added": false
@@ -458,6 +466,7 @@
       "getEyeParameters": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/getEyeParameters",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-geteyeparameters",
           "support": {
             "chrome": {
               "version_added": false
@@ -515,6 +524,7 @@
       "getFrameData": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/getFrameData",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-geteyeparameters",
           "support": {
             "chrome": {
               "version_added": false
@@ -572,6 +582,7 @@
       "getLayers": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/getLayers",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-getlayers",
           "support": {
             "chrome": {
               "version_added": false
@@ -675,6 +686,7 @@
       "getPose": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/getPose",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-getpose",
           "support": {
             "chrome": {
               "version_added": false
@@ -768,6 +780,7 @@
       "isConnected": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/isConnected",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-isconnected",
           "support": {
             "chrome": {
               "version_added": false
@@ -825,6 +838,7 @@
       "isPresenting": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/isPresenting",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-ispresenting",
           "support": {
             "chrome": {
               "version_added": false
@@ -882,6 +896,7 @@
       "requestAnimationFrame": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/requestAnimationFrame",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-requestanimationframe",
           "support": {
             "chrome": {
               "version_added": false
@@ -939,6 +954,7 @@
       "resetPose": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/resetPose",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-resetpose",
           "support": {
             "chrome": {
               "version_added": false
@@ -996,6 +1012,7 @@
       "requestPresent": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/requestPresent",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-requestpresent",
           "support": {
             "chrome": {
               "version_added": false
@@ -1053,6 +1070,7 @@
       "stageParameters": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/stageParameters",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-stageparameters",
           "support": {
             "chrome": {
               "version_added": false
@@ -1110,6 +1128,7 @@
       "submitFrame": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/VRDisplay/submitFrame",
+          "spec_url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-submitframe",
           "support": {
             "chrome": {
               "version_added": false

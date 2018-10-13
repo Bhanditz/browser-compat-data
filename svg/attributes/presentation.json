@@ -101,6 +101,10 @@
         "clip": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/clip",
+            "spec_url": [
+              "https://drafts.fxtf.org/css-masking-1/#clip-property",
+              "https://www.w3.org/TR/SVG11/masking.html#ClipProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -149,6 +153,10 @@
         "clip-path": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/clip-path",
+            "spec_url": [
+              "https://drafts.fxtf.org/css-masking-1/#the-clip-path",
+              "https://www.w3.org/TR/SVG11/masking.html#ClipPathProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -293,6 +301,10 @@
         "color-interpolation": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/color-interpolation",
+            "spec_url": [
+              "https://svgwg.org/svg2-draft/painting.html#ColorInterpolation",
+              "https://www.w3.org/TR/SVG11/painting.html#ColorInterpolationProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -725,6 +737,12 @@
         "fill": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/fill",
+            "spec_url": [
+              "https://svgwg.org/specs/animations/#FillAttribute",
+              "https://svgwg.org/svg2-draft/painting.html#FillProperty",
+              "https://www.w3.org/TR/SVG11/animate.html#FillAttribute",
+              "https://www.w3.org/TR/SVG11/painting.html#FillProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -773,6 +791,10 @@
         "fill-opacity": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/fill-opacity",
+            "spec_url": [
+              "https://svgwg.org/svg2-draft/painting.html#FillOpacityProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#FillOpacityProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -821,6 +843,10 @@
         "fill-rule": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/fill-rule",
+            "spec_url": [
+              "https://svgwg.org/svg2-draft/painting.html#FillRuleProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#FillRuleProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -1781,6 +1807,10 @@
         "mask": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/mask",
+            "spec_url": [
+              "https://drafts.fxtf.org/css-masking-1/#the-mask",
+              "https://www.w3.org/TR/SVG11/masking.html#MaskProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -1973,6 +2003,10 @@
         "pointer-events": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/pointer-events",
+            "spec_url": [
+              "https://svgwg.org/svg2-draft/interact.html#PointerEventsProperty",
+              "https://www.w3.org/TR/SVG11/interact.html#PointerEventsProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -2261,6 +2295,10 @@
         "stroke": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/stroke",
+            "spec_url": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -2309,6 +2347,10 @@
         "stroke-dasharray": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/stroke-dasharray",
+            "spec_url": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeDasharrayProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeDasharrayProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -2357,6 +2399,10 @@
         "stroke-dashoffset": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/stroke-dashoffset",
+            "spec_url": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeDashoffsetProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeDashoffsetProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -2405,6 +2451,10 @@
         "stroke-linecap": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/stroke-linecap",
+            "spec_url": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeLinecapProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeLinecapProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -2453,6 +2503,10 @@
         "stroke-linejoin": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/stroke-linejoin",
+            "spec_url": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeLinejoinProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeLinejoinProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -2501,6 +2555,10 @@
         "stroke-miterlimit": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/stroke-miterlimit",
+            "spec_url": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeMiterlimitProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeMiterlimitProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -2549,6 +2607,10 @@
         "stroke-opacity": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/stroke-opacity",
+            "spec_url": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeOpacityProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeOpacityProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -2597,6 +2659,10 @@
         "stroke-width": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/stroke-width",
+            "spec_url": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeWidthProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeWidthProperty"
+            ],
             "support": {
               "chrome": {
                 "version_added": null
@@ -2837,6 +2903,12 @@
         "transform": {
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/SVG/Attribute/transform",
+            "spec_url": [
+              "https://drafts.csswg.org/css-transforms-2/#svg-transform",
+              "https://drafts.csswg.org/css-transforms/#svg-transform",
+              "https://svgwg.org/svg2-draft/coords.html#TransformProperty",
+              "https://www.w3.org/TR/SVG11/coords.html#TransformAttribute"
+            ],
             "support": {
               "chrome": {
                 "version_added": null

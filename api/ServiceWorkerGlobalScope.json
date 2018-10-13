@@ -3,6 +3,7 @@
     "ServiceWorkerGlobalScope": {
       "__compat": {
         "mdn_url": "https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope",
+        "spec_url": "https://w3c.github.io/ServiceWorker/#serviceworkerglobalscope-interface",
         "support": {
           "chrome": {
             "version_added": "40"
@@ -54,6 +55,7 @@
       "clients": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/clients",
+          "spec_url": "https://w3c.github.io/ServiceWorker/#service-worker-global-scope-clients",
           "support": {
             "chrome": {
               "version_added": "40"
@@ -106,6 +108,7 @@
       "caches": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/caches",
+          "spec_url": "https://w3c.github.io/ServiceWorker/#global-caches",
           "support": {
             "chrome": {
               "version_added": "40"
@@ -223,6 +226,7 @@
       "onactivate": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/onactivate",
+          "spec_url": "https://w3c.github.io/ServiceWorker/#service-worker-global-scope-event-handlers",
           "support": {
             "chrome": {
               "version_added": "40"
@@ -340,6 +344,7 @@
       "onfetch": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/onfetch",
+          "spec_url": "https://w3c.github.io/ServiceWorker/#service-worker-global-scope-event-handlers",
           "support": {
             "chrome": {
               "version_added": "40"
@@ -392,6 +397,7 @@
       "oninstall": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/oninstall",
+          "spec_url": "https://w3c.github.io/ServiceWorker/#service-worker-global-scope-event-handlers",
           "support": {
             "chrome": {
               "version_added": "40"
@@ -444,6 +450,7 @@
       "onmessage": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/onmessage",
+          "spec_url": "https://w3c.github.io/ServiceWorker/#service-worker-global-scope-event-handlers",
           "support": {
             "chrome": {
               "version_added": "40"
@@ -547,6 +554,7 @@
       "onnotificationclick": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/onnotificationclick",
+          "spec_url": "https://notifications.spec.whatwg.org/#dom-serviceworkerglobalscope-onnotificationclick",
           "support": {
             "chrome": {
               "version_added": "40"
@@ -599,6 +607,7 @@
       "onnotificationclose": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/onnotificationclose",
+          "spec_url": "https://notifications.spec.whatwg.org/#dom-serviceworkerglobalscope-onnotificationclose",
           "support": {
             "chrome": {
               "version_added": "40"
@@ -716,6 +725,7 @@
       "onpush": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/onpush",
+          "spec_url": "https://w3c.github.io/push-api/#widl-ServiceWorkerGlobalScope-onpush",
           "support": {
             "chrome": {
               "version_added": "40"
@@ -768,6 +778,7 @@
       "onpushsubscriptionchange": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/onpushsubscriptionchange",
+          "spec_url": "https://w3c.github.io/push-api/#widl-ServiceWorkerGlobalScope-onpushsubscriptionchange",
           "support": {
             "chrome": {
               "version_added": "40"
@@ -820,6 +831,7 @@
       "onsync": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/onsync",
+          "spec_url": "https://wicg.github.io/BackgroundSync/spec/#sync-event",
           "support": {
             "chrome": {
               "version_added": "49"
@@ -872,6 +884,7 @@
       "registration": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/registration",
+          "spec_url": "https://w3c.github.io/ServiceWorker/#service-worker-global-scope-registration",
           "support": {
             "chrome": {
               "version_added": "40"
@@ -924,6 +937,7 @@
       "skipWaiting": {
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/ServiceWorkerGlobalScope/skipWaiting",
+          "spec_url": "https://w3c.github.io/ServiceWorker/#service-worker-obj",
           "support": {
             "chrome": {
               "version_added": "40"
